@@ -1,0 +1,23 @@
+body {
+    background: URL(https://thumbor.forbes.com/thumbor/1280x868/https%3A%2F%2Fblogs-images.forbes.com%2Fdavidebanis%2Ffiles%2F2019%2F01%2F04_Our-Burger_stack-1200x642.jpg)
+  }
+  
+  .jumbotron h1{
+      color: black;
+  
+  }
+  
+  .jumbotron{
+      padding-top: 1%;
+      background-color:green;
+  }
+  
+    
+  .submitFont{
+      color: green;
+  }
+#bu{
+color:black;
+background-color: plum
+  }
+
